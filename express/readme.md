@@ -1,4 +1,5 @@
-# Express Challenge - Phase 1 - Setup
+# Express Challenge
+###Phase 1 - Setup
 
 In this phase you are asked to setup an Express app.
 
